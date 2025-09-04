@@ -54,8 +54,8 @@ To use this workflow, you can utilize either of the following methods:
 
 ```bash
 mkdir -p .github/workflows
-curl -o .github/workflows/gemini-dispatch.yml https://raw.githubusercontent.com/google-github-actions/run-gemini-cli/main/examples/workflows/gemini-dispatch/gemini-dispatch.yml
-curl -o .github/workflows/gemini-invoke.yml https://raw.githubusercontent.com/google-github-actions/run-gemini-cli/main/examples/workflows/gemini-assistant/gemini-invoke.yml
+curl -o .github/workflows/gemini-dispatch.yml https://raw.githubusercontent.com/MillionthOdin16/run-gemini-cli/main/examples/workflows/gemini-dispatch/gemini-dispatch.yml
+curl -o .github/workflows/gemini-invoke.yml https://raw.githubusercontent.com/MillionthOdin16/run-gemini-cli/main/examples/workflows/gemini-assistant/gemini-invoke.yml
 ```
 
 ## Dependencies

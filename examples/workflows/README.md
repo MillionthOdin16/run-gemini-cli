@@ -1,6 +1,6 @@
 # Gemini CLI Workflows
 
-This directory contains a collection of example workflows that demonstrate how to use the [Google Gemini CLI GitHub Action](https://github.com/google-github-actions/run-gemini-cli). These workflows are designed to be reusable and customizable for your own projects.
+This directory contains a collection of example workflows that demonstrate how to use the [Gemini CLI GitHub Action](https://github.com/MillionthOdin16/run-gemini-cli). These workflows are designed to be reusable and customizable for your own projects.
 
 - [Gemini CLI Workflows](#gemini-cli-workflows)
   - [Available Workflows](#available-workflows)
