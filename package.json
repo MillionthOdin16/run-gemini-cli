@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google-github-actions/run-gemini-cli.git"
+    "url": "git+https://github.com/MillionthOdin16/run-gemini-cli.git"
   },
   "keywords": [
     "gemini",
@@ -22,9 +22,9 @@
   "author": "Google",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/google-github-actions/run-gemini-cli/issues"
+    "url": "https://github.com/MillionthOdin16/run-gemini-cli/issues"
   },
-  "homepage": "https://github.com/google-github-actions/run-gemini-cli#readme",
+  "homepage": "https://github.com/MillionthOdin16/run-gemini-cli#readme",
   "devDependencies": {
     "@google-github-actions/actions-utils": "^0.8.10"
   }
